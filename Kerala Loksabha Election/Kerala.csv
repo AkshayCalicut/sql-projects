@@ -1,0 +1,297 @@
+PC_Name,No,Type,State,Winning_candidate,Party,Electors,Vote,Turnout,Margin,Margin_in_percentage,year
+Ambalapuzha,143,GEN,Kerala,P. K. Vasudevan Nair,Communist Party Of India,445802,334846,75.1,11233,3.4,1962
+Badagara,133,GEN,Kerala,A. V. Raghavan,Independent,463498,343312,74.1,72907,21.2,1962
+Chirayinkil,147,GEN,Kerala,M. K. Kumaran,Communist Party Of India,437189,311762,71.3,33219,10.7,1962
+Ernakulam,140,GEN,Kerala,A. M. Thomas,Indian National Congress,455280,363493,79.8,23399,6.4,1962
+Kasergod,131,GEN,Kerala,A. K. Gopalan,Communist Party Of India,460358,308449,67.0,83363,27.0,1962
+Kottayam,142,GEN,Kerala,Mathew Maniyangadan,Indian National Congress,409662,294598,71.9,65286,22.2,1962
+Kozhikode,134,GEN,Kerala,C. H. Muhammed Koya,Muslim League,434064,312672,72.0,763,0.2,1962
+Manjeri,135,GEN,Kerala,Muhammad Ismail Sahib,Muslim League,431863,247891,57.4,4328,1.7,1962
+Mavilekara,145,SC,Kerala,Achuthan,Indian National Congress,422829,307516,72.7,7288,2.4,1962
+Mukundapuram,139,GEN,Kerala,Govinda Menon Panampilli,Indian National Congress,457338,367449,80.4,38451,10.5,1962
+Muvattupuzha,141,GEN,Kerala,Cherian,Indian National Congress,467654,296137,63.3,24648,8.3,1962
+Palghat,136,SC,Kerala,Kunhan Patinjara Veetilpadi,Communist Party Of India,417640,211136,50.6,72335,34.3,1962
+Poonani,137,GEN,Kerala,Imbichi Bava Ezhukudikkal,Communist Party Of India,411076,263593,64.1,57799,21.9,1962
+Qullon,146,GEN,Kerala,Sreekantan Nair,Revolutionary Socialist Party,442109,339363,76.8,64955,19.1,1962
+Tellicherry,132,GEN,Kerala,S. K. Pottekkatt,Independent,501672,375373,74.8,64950,17.3,1962
+Thiruvalla,144,GEN,Kerala,G. Ravindra Varma,Indian National Congress,436674,307567,70.4,74064,24.1,1962
+Trichur,138,GEN,Kerala,Krishna Warriar,Communist Party Of India,438212,332642,75.9,5827,1.8,1962
+Trivanduram,148,GEN,Kerala,Nataraja Pillai,Independent,470222,328141,69.8,10458,3.2,1962
+Adoor,493,SC,Kerala,P. C. Adichan,Communist Party Of India,441409,356004,80.7,76398,21.5,1967
+Ambalapuzha,491,GEN,Kerala,S. Gopalan,Communist Party Of India (MARXIST),458181,371238,81.0,50277,13.5,1967
+Badagara,480,GEN,Kerala,A. Sreedharan,Samyukta Socialist Party,463046,345034,74.5,100503,29.1,1967
+Chirayinkil,495,GEN,Kerala,K. Anirudhan,Communist Party Of India (MARXIST),410807,310052,75.5,29343,9.5,1967
+Ernakulam,487,GEN,Kerala,V. V. Menon,Communist Party Of India (MARXIST),457108,372561,81.5,16606,4.5,1967
+Kasargod,478,GEN,Kerala,A. K. Gopalan,Communist Party Of India (MARXIST),467371,351097,75.1,118510,33.8,1967
+Kottayam,490,GEN,Kerala,K. M. Abraham,Communist Party Of India (MARXIST),426210,344933,80.9,48581,14.1,1967
+Kozhikode,481,GEN,Kerala,E. S. Sait,Muslim Leage,495721,387366,78.1,81873,21.1,1967
+Manjeri,482,GEN,Kerala,M. M. Ismail,Muslim Leage,453637,302322,66.6,107494,35.6,1967
+Mavelikara,492,GEN,Kerala,G. P. Mangalathumadom,Samyukta Socialist Party,459888,361923,78.7,18694,5.2,1967
+Mukundapuram,486,GEN,Kerala,P. G. Menon,Indian National Congress,451269,368349,81.6,5338,1.4,1967
+Muvattu Puzha,488,GEN,Kerala,P. P. Esthose,Communist Party Of India (MARXIST),423640,327971,77.4,42154,12.9,1967
+Palghat,484,GEN,Kerala,E. K. Nayanar,Communist Party Of India (MARXIST),465825,285472,61.3,67358,23.6,1967
+Peermade,489,GEN,Kerala,P. K. V. Nair,Communist Party Of India,449574,321043,71.4,42466,13.2,1967
+Ponnani,483,SC,Kerala,C. K. Chakrapani,Communist Party Of India (MARXIST),441611,278696,63.1,62780,22.5,1967
+Quilon,494,GEN,Kerala,N.S. Nair,Independent,459508,371498,80.9,79858,21.5,1967
+Telli Cherry,479,GEN,Kerala,P. Gopalan,Communist Party Of India (MARXIST),475141,368285,77.5,84312,22.9,1967
+Trichur,485,GEN,Kerala,C. Janardhanan,Communist Party Of India,458629,371210,80.9,20869,5.6,1967
+Trivandrum,496,GEN,Kerala,P. Viswambharan,Samyukta Socialist Party,457981,322711,70.5,4478,1.4,1967
+Adoor,163,SC,Kerala,K. Bhargavi,Communist Party Of India,509646,312726,61.4,108897,34.8,1971
+Ambalapuzha,161,GEN,Kerala,K. Balakrishnan,Revolutionary Socialist Party,527204,408735,77.5,25918,6.3,1971
+Badagara,150,GEN,Kerala,K. P. Unnikrishnan,Indian National Congress,566738,380037,67.1,57804,15.2,1971
+Chirayinkil,165,GEN,Kerala,Vayalar Ravi,Indian National Congress,502730,320083,63.7,49272,15.4,1971
+Ernakulam,157,GEN,Kerala,Henry Austin,Indian National Congress,534112,382724,71.7,22670,5.9,1971
+Kasargod,148,GEN,Kerala,Ramachandran Kadannappalli,Indian National Congress,579127,415761,71.8,28404,6.8,1971
+Kottayam,160,GEN,Kerala,Varkey George,Kerala Congress,491252,330399,67.3,26015,7.9,1971
+Kozhikode,151,GEN,Kerala,Ibrahim Sulaiman Sait,Muslim Leage,595499,367454,61.7,72076,19.6,1971
+Manjeri,152,GEN,Kerala,Muhammad Ismail Sahib,Muslim Leage,560669,256834,45.8,119837,46.7,1971
+Mavelikara,162,GEN,Kerala,R. Balakrishna Pillai,Kerala Congress,514087,381567,74.2,55527,14.6,1971
+Mukundapuram,156,GEN,Kerala,A. C. George,Indian National Congress,527041,375929,71.3,72610,19.3,1971
+Muvattpuzha,158,GEN,Kerala,C. M. Stephen,Indian National Congress,500735,321367,64.2,38137,11.9,1971
+Palghat,154,GEN,Kerala,A. K. Gopalan,Communist Party Of India (MARXIST),564890,341486,60.5,52266,15.3,1971
+Peermade,159,GEN,Kerala,M. M. Joseph,Kerala Congress,528326,269222,51.0,74624,27.7,1971
+Ponnani,153,SC,Kerala,M. K. Krishnan,Communist Party Of India (MARXIST),529191,302569,57.2,11923,3.9,1971
+Quilon,164,GEN,Kerala,N. Sreekantan Nair,Revolutionary Socialist Party,543033,314953,58.0,112384,35.7,1971
+Tellicherry,149,GEN,Kerala,C. K. Chandrappan,Communist Party Of India,562923,400335,71.1,39824,9.9,1971
+Trichur,155,GEN,Kerala,C. Janardhanan,Communist Party Of India,547049,392382,71.7,20324,5.2,1971
+Trivandrum,166,GEN,Kerala,V. K. Krishna Menon,Independent,533641,318883,59.8,24127,7.6,1971
+Adoor,17,GEN,Kerala,P. K. Kodiyan,Communist Party Of India,525154,429974,81.9,40567,9.4,1977
+Alleppey,15,GEN,Kerala,V. M. Sudheeran,Indian National Congress,579976,485659,83.7,64016,13.2,1977
+Badagara,3,GEN,Kerala,K. P. Unnikrishnan,Indian National Congress,611107,507090,83.0,8070,1.6,1977
+Calicut,4,GEN,Kerala,V. A. Seyid Muhammad,Indian National Congress,559054,457067,81.8,13704,3.0,1977
+Cannanore,2,GEN,Kerala,C. K. Chandrappan,Communist Party Of India,553360,457869,82.7,12877,2.8,1977
+Chirayinkil,19,GEN,Kerala,Vayalar Ravi,Indian National Congress,564054,425651,75.5,60925,14.3,1977
+Ernakulam,11,GEN,Kerala,Henry Austin,Indian National Congress,582804,467048,80.1,7285,1.6,1977
+Idukki,14,GEN,Kerala,C. M. Stephen,Indian National Congress,578434,426869,73.8,79257,18.6,1977
+Kasaragod,1,GEN,Kerala,Ramachandran Kadannappally,Indian National Congress,578474,462875,80.0,5042,1.1,1977
+Kottayam,13,GEN,Kerala,Skariah Thomas,Kerala Congress,575946,469180,81.5,68695,14.6,1977
+Manjeri,5,GEN,Kerala,Ebrahim Sulaiman Sait,Muslim Leage,569228,442328,77.7,97201,22.0,1977
+Mavelikara,16,SC,Kerala,B. K. Nair,Indian National Congress,569041,452188,79.5,56552,12.5,1977
+Mukundapuram,10,GEN,Kerala,A. C. George,Indian National Congress,562082,472364,84.0,4220,0.9,1977
+Muvattupuzha,12,GEN,Kerala,George J. Mathew,Kerala Congress,560833,460769,82.2,44820,9.7,1977
+Ottapalam,8,GEN,Kerala,K. Kunhambu,Indian National Congress,574543,440315,76.6,35721,8.1,1977
+Palghat,7,GEN,Kerala,A. Sunnasahib,Indian National Congress,589253,439779,74.6,14871,3.4,1977
+Ponnani,6,GEN,Kerala,G. M. Banatwala,Muslim Leage,573502,431232,75.2,117546,27.3,1977
+Quilon,18,GEN,Kerala,N. Sreekantan Nair,Revolutionary Socialist Party,582742,458425,78.7,113161,24.7,1977
+Trichur,9,SC,Kerala,K. A. Rajan,Communist Party Of India,549781,441732,80.4,37506,8.5,1977
+Trivandrum,20,GEN,Kerala,M. N. Govindan Nair,Communist Party Of India,621533,448586,72.2,69822,15.6,1977
+Adoor,17,GEN,Kerala,P. K. Kodiyan,Communist Party Of India,611784,324289,53.0,25399,7.8,1980
+Alleppey,15,GEN,Kerala,Suseela Gopalana,Communist Party Of India (MARXIST),646322,422720,65.4,114764,27.1,1980
+Badagara,3,GEN,Kerala,K.P. Unnikrishnan,Indian National Congress (U),685632,506343,73.9,41682,8.2,1980
+Calicut,4,GEN,Kerala,E. K. Imbichi Bava,Communist Party Of India (MARXIST),705630,427612,60.6,40695,9.5,1980
+Cannanore,2,GEN,Kerala,K. Kunhambu,Indian National Congress (U),637975,449902,70.5,73257,16.3,1980
+Chirayinkil,19,GEN,Kerala,A. A. Rahim,Indian National Congress (I),660715,390602,59.1,6063,1.6,1980
+Ernakulam,11,GEN,Kerala,Xavier Varghese Arakal,Indian National Congress (I),675831,398409,59.0,2502,0.6,1980
+Idukki,14,GEN,Kerala,M.M. Lawrence,Communist Party Of India (MARXIST),697106,377284,54.1,7033,1.9,1980
+Kasaragod,1,GEN,Kerala,M. Ramanna Rai,Communist Party Of India (MARXIST),678476,466974,68.8,73587,15.8,1980
+Kottayam,13,GEN,Kerala,Skaria Thomas,Kerala Congress,659430,383531,58.2,5375,1.4,1980
+Manjeri,5,GEN,Kerala,Ebrahim Sulaiman Sait,Muslim Leage,674048,435656,64.6,34581,7.9,1980
+Mavelikara,16,SC,Kerala,P. J. Kurien,Indian National Congress (U),623914,421893,67.6,63122,15.0,1980
+Mukundapuram,10,GEN,Kerala,Balanandan,Communist Party Of India (MARXIST),634533,404796,63.8,65131,16.1,1980
+Muvattupuzha,12,GEN,Kerala,George Joseph (Baby Mundackal),Independent,634711,363029,57.2,4330,1.2,1980
+Ottapalam,8,GEN,Kerala,A.K. Balan,Communist Party Of India (MARXIST),666300,391617,58.8,23408,6.0,1980
+Palghat,7,GEN,Kerala,V.S. Vijaya Raghavan,Indian National Congress (I),705179,415718,59.0,12088,2.9,1980
+Ponnani,6,GEN,Kerala,Banatwala Gulam Mehmood,Muslim Leage,671001,405196,60.4,50863,12.6,1980
+Quilon,18,GEN,Kerala,B. K. Nair,Indian National Congress (I),661179,420586,63.6,36586,8.7,1980
+Trichur,9,SC,Kerala,K. A. Rajan,Communist Party Of India (MARXIST),622311,387098,62.2,43151,11.1,1980
+Trivandrum,20,GEN,Kerala,A. Neelalohithadasan Nadar,Indian National Congress (I),714687,453458,63.5,107057,23.6,1980
+Adoor,17,GEN,Kerala,K. K. Kunhambu,Indian National Congress,674208,510084,75.7,50972,10.0,1984
+Alleppey,15,GEN,Kerala,Vakkon Purushothaman,Indian National Congress,701138,589117,84.0,37764,6.4,1984
+Badagara,3,GEN,Kerala,K. P. Unnikrishnan,Indian Congress (SOCIALIST),740431,583558,78.8,10979,1.9,1984
+Calicut,4,GEN,Kerala,K. G. Adiyodi,Indian National Congress,706343,562184,79.6,54061,9.6,1984
+Cannanore,2,GEN,Kerala,Muliappalli Ramachandran,Indian National Congress,693093,567922,81.9,25053,4.4,1984
+Chirayinkil,19,GEN,Kerala,Thalekkunnil Basheer,Indian National Congress,728111,531321,73.0,31465,5.9,1984
+Ernakulam,11,GEN,Kerala,K. V. Thomas,Indian National Congress,727741,551838,75.8,70324,12.7,1984
+Idukki,14,GEN,Kerala,P. J. Kurian,Indian National Congress,717790,541206,75.4,130624,24.1,1984
+Kasaragod,1,GEN,Kerala,I. Rama Rai,Indian National Congress,745222,582565,78.2,11369,2.0,1984
+Kottayam,13,GEN,Kerala,Suresh Kurup,Communist Party Of India (MARXIST),695101,559836,80.5,5853,1.0,1984
+Manjeri,5,GEN,Kerala,Ebrahim Sulaman Sait,Muslim Leage,736698,570262,77.4,71175,12.5,1984
+Mavelikara,16,SC,Kerala,Thampan Thomas,Janta Party,673469,503109,74.7,1287,0.3,1984
+Mukundapuram,10,GEN,Kerala,K. Mohandas,Kerala Congress (J),703029,569192,81.0,44385,7.8,1984
+Muvattupuzha,12,GEN,Kerala,George Joseph Mundakkal (Baby),Kerala Congress (J),690388,527328,76.4,108200,20.5,1984
+Ottapalam,8,GEN,Kerala,K. R. Narayanan,Indian National Congress,705020,540620,76.7,55570,10.3,1984
+Palghat,7,GEN,Kerala,V. S. Vijayaraghavan,Indian National Congress,731568,563938,77.1,38153,6.8,1984
+Ponnani,6,GEN,Kerala,G. M. Banatwalla,Muslim Leage,718121,506049,70.5,102326,20.2,1984
+Quilon,18,GEN,Kerala,S. Krishna Kumar,Indian National Congress,726304,566439,78.0,20357,3.6,1984
+Trichur,9,SC,Kerala,P. A. Antony,Indian National Congress,675704,521761,77.2,51290,9.8,1984
+Trivandrum,20,GEN,Kerala,A. Charles,Indian National Congress,786593,562700,71.5,53438,9.5,1984
+Adoor,17,GEN,Kerala,Kodikunnil Suresh,Indian National Congress,880093,692830,78.7,21542,3.1,1989
+Alleppey,15,GEN,Kerala,Vakkom Purushotham,Indian National Congress,884874,750995,84.9,25123,3.3,1989
+Badagara,3,GEN,Kerala,K. P. Unnikrishnan,Indian Congress (SOCIALIST- SARAT CHANDRA SINHA),984309,795853,80.9,8209,1.0,1989
+Calicut,4,GEN,Kerala,K. Muraleedharan,Indian National Congress,958405,788439,82.3,28957,3.7,1989
+Cannanore,2,GEN,Kerala,Mullappally Ramachandran,Indian National Congress,939750,781281,83.1,42404,5.4,1989
+Chirayinkil,19,GEN,Kerala,Thalekunnil Basheer,Indian National Congress,984118,730320,74.2,5130,0.7,1989
+Ernakulam,11,GEN,Kerala,K. V. Thomas,Indian National Congress,961739,776614,80.8,36465,4.7,1989
+Idukki,14,GEN,Kerala,Palai K. M. Mathew,Indian National Congress,972940,746958,76.8,91479,12.2,1989
+Kasaragod,1,GEN,Kerala,M. Rammana Rai,Communist Party Of India (MARXIST),1010280,802722,79.5,1546,0.2,1989
+Kottayam,13,GEN,Kerala,Ramesh Chennithala,Indian National Congress,890166,752839,84.6,53533,7.1,1989
+Manjeri,5,GEN,Kerala,Ebrahim Sulaiman Sait,Muslim Leage,1017274,811009,79.7,70282,8.7,1989
+Mavelikara,16,SC,Kerala,P. J. Kurien,Indian National Congress,840010,657992,78.3,57182,8.7,1989
+Mukundapuram,10,GEN,Kerala,Savithri Lakshmanan,Indian National Congress,921201,759285,82.4,18754,2.5,1989
+Muvattupuzha,12,GEN,Kerala,P. C. Thomas,Kerala Congress(M),895057,732761,81.9,68811,9.4,1989
+Ottapalam,8,GEN,Kerala,K. R. Narayanan,Indian National Congress,946025,722920,76.4,26187,3.6,1989
+Palghat,7,GEN,Kerala,A. Vijayaraghavan,Communist Party Of India (MARXIST),957847,741859,77.5,1286,0.2,1989
+Ponnani,6,GEN,Kerala,G. M. Banat Walia,Muslim Leage,991943,710929,71.7,107519,15.1,1989
+Quilon,18,GEN,Kerala,S. Krishnakumar,Indian National Congress,951856,775045,81.4,27462,3.5,1989
+Trichur,9,SC,Kerala,P. A. Antony,Indian National Congress,912039,719432,78.9,6235,0.9,1989
+Trivandrum,20,GEN,Kerala,A. Charles,Indian National Congress,1024210,757167,73.9,50913,6.7,1989
+Adoor,17,GEN,Kerala,Kodikunnil Suresh,Indian National Congress,900486,668474,74.2,18595,2.8,1991
+Alleppey,15,GEN,Kerala,T.J. Anjalose,Communist Party Of India (MARXIST),944397,741369,78.5,14075,1.9,1991
+Badagara,3,GEN,Kerala,Unnikrishnan K.P. (SCS),Indian Congress (SOCIALIST- SARAT CHANDRA SINHA),1030244,800229,77.7,17489,2.2,1991
+Calicut,4,GEN,Kerala,K. Muraleedharan,Indian National Congress,1014583,754114,74.3,15884,2.1,1991
+Cannanore,2,GEN,Kerala,Mullappally Ramachandran,Indian National Congress,968420,749811,77.4,41127,5.5,1991
+Chirayinkil,19,GEN,Kerala,Suseela Gopalan (W),Communist Party Of India (MARXIST),1003307,699598,69.7,1106,0.2,1991
+Ernakulam,11,GEN,Kerala,K.V. Thomas,Indian National Congress,1019504,740866,72.7,47144,6.4,1991
+Idukki,14,GEN,Kerala,Palai K.M. Mathew,Indian National Congress,997877,714298,71.6,25206,3.5,1991
+Kasaragod,1,GEN,Kerala,M. Ramanna Rai,Communist Party Of India (MARXIST),1036913,775421,74.8,9423,1.2,1991
+Kottayam,13,GEN,Kerala,Ramesh Chennithala,Indian National Congress,938252,713707,76.1,62622,8.8,1991
+Manjeri,5,GEN,Kerala,E. Ahamed,Muslim Leage,1053645,742123,70.4,89323,12.0,1991
+Mavelikara,16,SC,Kerala,P.J. Kurian,Indian National Congress,862770,628846,72.9,25488,4.1,1991
+Mukundapuram,10,GEN,Kerala,Savithri Lakshmanan (W),Indian National Congress,974881,757831,77.7,12365,1.6,1991
+Muvattupuzha,12,GEN,Kerala,P.C. Thomas,Kerala Congress(M),942937,719001,76.3,98103,13.6,1991
+Ottapalam,8,GEN,Kerala,K.R. Narayanan,Indian National Congress,981499,686327,69.9,15088,2.2,1991
+Palghat,7,GEN,Kerala,V.S. Vijayaraghavan,Indian National Congress,982228,702860,71.6,15768,2.2,1991
+Ponnani,6,GEN,Kerala,Ebrahim Sulaiman Sait,Muslim Leage,1011439,649480,64.2,95706,14.7,1991
+Quilon,18,GEN,Kerala,S. Krishna Kumar,Indian National Congress,979397,741389,75.7,27727,3.7,1991
+Trichur,9,SC,Kerala,P.C. Chacko,Indian National Congress,968128,706087,72.9,29231,4.1,1991
+Trivandrum,20,GEN,Kerala,A. Charles,Indian National Congress,1047069,721412,68.9,43670,6.1,1991
+Adoor,17,GEN,Kerala,Kodikkunnil Suresh,Indian National Congress,940100,681578,72.5,65545,9.6,1996
+Alleppey,15,GEN,Kerala,V M Sudheeran,Indian National Congress,973861,758374,77.9,25949,3.4,1996
+Badagara,3,GEN,Kerala,O. Bharathan,Communist Party Of India (MARXIST),1089716,825203,75.7,79945,9.7,1996
+Calicut,4,GEN,Kerala,M P Veerendra Kumar,Janata Dal,1059411,758736,71.6,38703,5.1,1996
+Cannanore,2,GEN,Kerala,Mullappally Ramachandran,Indian National Congress,1046188,774769,74.1,39302,5.1,1996
+Chirayinkil,19,GEN,Kerala,A.Sampath,Communist Party Of India (MARXIST),1035445,696024,67.2,48083,6.9,1996
+Ernakulam,11,GEN,Kerala,Xavier Arrakkal,Independent,1070063,729915,68.2,30385,4.2,1996
+Idukki,14,GEN,Kerala,A.C.Jos,Indian National Congress,1034335,729832,70.6,30140,4.1,1996
+Kasaragod,1,GEN,Kerala,T. Govindan,Communist Party Of India (MARXIST),1119715,812375,72.6,74730,9.2,1996
+Kottayam,13,GEN,Kerala,Remesh Chennithala,Indian National Congress,968334,701660,72.5,67048,9.6,1996
+Manjeri,5,GEN,Kerala,E.Ahammed,Muslim Leage,1153025,795721,69.0,54971,6.9,1996
+Mavelikara,16,SC,Kerala,P.J.Kurien,Indian National Congress,880820,633593,71.9,21076,3.3,1996
+Mukundapuram,10,GEN,Kerala,P. C.Chacko,Indian National Congress,1004427,749439,74.6,24757,3.3,1996
+Muvattupuzha,12,GEN,Kerala,P C Thomas,Kerala Congress(M),975024,719419,73.8,121896,16.9,1996
+Ottapalam,8,GEN,Kerala,S. Ajayakumar,Communist Party Of India (MARXIST),1035900,695723,67.2,23064,3.3,1996
+Palghat,7,GEN,Kerala,N N Krishnadas,Communist Party Of India (MARXIST),1062083,737849,69.5,23423,3.2,1996
+Ponnani,6,GEN,Kerala,G.M.Banatwalla,Muslim Leage,1091180,733423,67.2,79295,10.8,1996
+Quilon,18,GEN,Kerala,N.K.Premachandran,Revolutionary Socialist Party,1022175,738078,72.2,78370,10.6,1996
+Trichur,9,SC,Kerala,V.V.Raghavan,Communist Party Of India,995232,708216,71.2,1480,0.2,1996
+Trivandrum,20,GEN,Kerala,K.V.Surendranath,Communist Party Of India,1116833,721087,64.6,20802,2.9,1996
+Adoor,17,GEN,Kerala,Chengara Surendran,Communist Party Of India,967961,691309,71.4,17005,2.5,1998
+Alleppey,15,GEN,Kerala,V.M. Sudheeran,Indian National Congress,989265,764807,77.3,40637,5.3,1998
+Badagara,3,GEN,Kerala,A.K. Premajam,Communist Party Of India (MARXIST),1125076,845229,75.1,59161,7.0,1998
+Calicut,4,GEN,Kerala,Adv. P. Sankaran,Indian National Congress,1082831,792249,73.2,18657,2.4,1998
+Cannanore,2,GEN,Kerala,Mullappally Ramachandran,Indian National Congress,1071756,824208,76.9,2180,0.3,1998
+Chirayinkil,19,GEN,Kerala,Varkala Radhakrishnan,Communist Party Of India (MARXIST),1059243,695722,65.7,7542,1.1,1998
+Ernakulam,11,GEN,Kerala,Adv. George Eden,Indian National Congress,1127002,776105,68.9,74508,9.6,1998
+Idukki,14,GEN,Kerala,P.C.Chacko,Indian National Congress,1053290,719111,68.3,6350,0.9,1998
+Kasaragod,1,GEN,Kerala,T. Govindan,Communist Party Of India (MARXIST),1141067,871934,76.4,48240,5.5,1998
+Kottayam,13,GEN,Kerala,Suresh Kurup,Communist Party Of India (MARXIST),982587,719864,73.3,5446,0.8,1998
+Manjeri,5,GEN,Kerala,E. Ahamed,Muslim League Kerala State Committee,1174799,813036,69.2,106009,13.0,1998
+Mavelikara,16,SC,Kerala,Prof. P.J. Kurien,Indian National Congress,893600,625038,70.0,1261,0.2,1998
+Mukundapuram,10,GEN,Kerala,A.C. Jose,Indian National Congress,1034337,752317,72.7,8949,1.2,1998
+Muvattupuzha,12,GEN,Kerala,Adv. P.C. Thomas,Kerala Congress(M),998846,660851,66.2,113809,17.2,1998
+Ottapalam,8,GEN,Kerala,S. Ajayakumar,Communist Party Of India (MARXIST),1052499,721960,68.6,19800,2.7,1998
+Palghat,7,GEN,Kerala,N.N. Krishnadas,Communist Party Of India (MARXIST),1076444,745183,69.2,25022,3.4,1998
+Ponnani,6,GEN,Kerala,G.M. Banatwalla,Muslim League Kerala State Committee,1105709,692506,62.6,104244,15.1,1998
+Quilon,18,GEN,Kerala,N.K. Premachandran,Revolutionary Socialist Party,1061740,765190,72.1,71762,9.4,1998
+Trichur,9,SC,Kerala,V.V. Raghavan,Communist Party Of India,1024211,729425,71.2,18409,2.5,1998
+Trivandrum,20,GEN,Kerala,K. Karunakaran,Indian National Congress,1166449,766800,65.7,15398,2.0,1998
+Adoor,17,GEN,Kerala,Kodikunnil Suresh,Indian National Congress,1007138,703008,69.8,22006,3.1,1999
+Alleppey,15,GEN,Kerala,V.M. Sudheeran,Indian National Congress,1033539,793041,76.7,35094,4.4,1999
+Badagara,3,GEN,Kerala,A.K. Premajam,Communist Party Of India (MARXIST),1155934,861933,74.6,25844,3.0,1999
+Calicut,4,GEN,Kerala,K. Muraleedharan,Indian National Congress,1124640,826901,73.5,50402,6.1,1999
+Cannanore,2,GEN,Kerala,A.P. Abdullakkutty,Communist Party Of India (MARXIST),1121192,886354,79.1,10247,1.2,1999
+Chirayinkil,19,GEN,Kerala,Varkala Radhakrishnan,Communist Party Of India (MARXIST),1096417,691113,63.0,3128,0.5,1999
+Ernakulam,11,GEN,Kerala,Adv. George Eden,Indian National Congress,1180911,776933,65.8,111305,14.3,1999
+Idukki,14,GEN,Kerala,K. Francis George,Kerala Congress,1121484,778940,69.5,9298,1.2,1999
+Kasaragod,1,GEN,Kerala,T. Govindan,Communist Party Of India (MARXIST),1199964,931632,77.6,31578,3.4,1999
+Kottayam,13,GEN,Kerala,Suresh Kurup,Communist Party Of India (MARXIST),1018385,733725,72.1,10599,1.4,1999
+Manjeri,5,GEN,Kerala,E. Ahamed,Muslim League Kerala State Committee,1217888,816573,67.1,123411,15.1,1999
+Mavelikara,16,SC,Kerala,Ramesh Chennithala,Indian National Congress,936952,667157,71.2,33443,5.0,1999
+Mukundapuram,10,GEN,Kerala,K. Karunakaran,Indian National Congress,1083445,792212,73.1,52463,6.6,1999
+Muvattupuzha,12,GEN,Kerala,Adv. P.C. Thomas,Kerala Congress(M),1020153,692278,67.9,76939,11.1,1999
+Ottapalam,8,GEN,Kerala,S. Ajayakumar,Communist Party Of India (MARXIST),1103327,784584,71.1,13715,1.7,1999
+Palghat,7,GEN,Kerala,N.N.Krishnadas,Communist Party Of India (MARXIST),1132416,815882,72.1,30767,3.8,1999
+Ponnani,6,GEN,Kerala,G.M. Banatwalla,Muslim League Kerala State Committee,1146335,694990,60.6,129478,18.6,1999
+Quilon,18,GEN,Kerala,P. Rajendran,Communist Party Of India (MARXIST),1088597,740869,68.1,19284,2.6,1999
+Trichur,9,SC,Kerala,A.C. Jose,Indian National Congress,1071266,737054,68.8,11632,1.6,1999
+Trivandrum,20,GEN,Kerala,Advocate V.S. Sivakumar,Indian National Congress,1198918,757497,63.2,14485,1.9,1999
+Adoor,17,GEN,Kerala,Chengara Surendran,Communist Party Of India,960122,682227,71.1,54534,8.0,2004
+Alleppey,15,GEN,Kerala,Dr. K. S. Manoj,Communist Party Of India (MARXIST),971154,728156,75.0,1009,0.1,2004
+Badagara,3,GEN,Kerala,P. Satheedevi,Communist Party Of India (MARXIST),1092826,826054,75.6,130589,15.8,2004
+Calicut,4,GEN,Kerala,M. P. Veerendra Kumar,Janata Dal (Secular),1110149,779220,70.2,65326,8.4,2004
+Cannanore,2,GEN,Kerala,A. P. Abdullakutty,Communist Party Of India (MARXIST),1088892,858386,78.8,83849,9.8,2004
+Chirayinkil,19,GEN,Kerala,Varkala Radhakrishnan,Communist Party Of India (MARXIST),1020604,668280,65.5,50745,7.6,2004
+Ernakulam,11,GEN,Kerala,Dr. Sebastian Paul,Independent,1069131,657891,61.5,70099,10.7,2004
+Idukki,14,GEN,Kerala,K. Francis George,Kerala Congress,1034338,727964,70.4,69384,9.5,2004
+Kasaragod,1,GEN,Kerala,P. Karunakaran,Communist Party Of India (MARXIST),1160134,898746,77.5,108256,12.0,2004
+Kottayam,13,GEN,Kerala,K. Suresh Kurup,Communist Party Of India (MARXIST),963886,703486,73.0,42914,6.1,2004
+Manjeri,5,GEN,Kerala,T. K. Hamza,Communist Party Of India (MARXIST),1262202,904535,71.7,47743,5.3,2004
+Mavelikara,16,SC,Kerala,C. S. Sujatha,Communist Party Of India (MARXIST),871592,642816,73.8,7414,1.2,2004
+Mukundapuram,10,GEN,Kerala,Lonappan Nambadan,Communist Party Of India (MARXIST),1024150,721958,70.5,117097,16.2,2004
+Muvattupuzha,12,GEN,Kerala,P. C. Thomas (PULLOLIL),Indian Federal Democratic Party,984053,744192,75.6,529,0.1,2004
+Ottapalam,8,GEN,Kerala,S. Ajaya Kumar,Communist Party Of India (MARXIST),1092142,805485,73.8,70410,8.7,2004
+Palghat,7,GEN,Kerala,N. N. Krishnadas,Communist Party Of India (MARXIST),1113144,818860,73.6,98158,12.0,2004
+Ponnani,6,GEN,Kerala,E. Ahammed,Muslim League Kerala State Committee,1172057,729438,62.2,102758,14.1,2004
+Quilon,18,GEN,Kerala,P. Rajendran,Communist Party Of India (MARXIST),1031593,702390,68.1,111071,15.8,2004
+Trichur,9,SC,Kerala,C. K. Chandrappan,Communist Party Of India,990733,686108,69.3,45961,6.7,2004
+Trivandrum,20,GEN,Kerala,P. K. Vasudevan Nair,Communist Party Of India,1112571,761488,68.4,54603,7.2,2004
+Alappuzha,15,GEN,Kerala,K.C Venugopal,Indian National Congress,1147162,911120,79.4,57635,6.3,2009
+Alathur,9,SC,Kerala,P.K Biju,Communist Party Of India (MARXIST),1100843,830044,75.4,20960,2.5,2009
+Attingal,19,GEN,Kerala,Adv. A Sampath,Communist Party Of India (MARXIST),1091432,725168,66.4,18341,2.5,2009
+Chalakudy,11,GEN,Kerala,K.P. Dhanapalan,Indian National Congress,1075390,794306,73.9,71679,9.0,2009
+Ernakulam,12,GEN,Kerala,Prof. K V Thomas,Indian National Congress,1023053,745856,72.9,11790,1.6,2009
+Idukki,13,GEN,Kerala,Adv. P.T Thomas,Indian National Congress,1062849,787236,74.1,74796,9.5,2009
+Kannur,2,GEN,Kerala,K. Sudhakaran,Indian National Congress,1069725,867040,81.1,43151,5.0,2009
+Kasaragod,1,GEN,Kerala,P Karunakaran,Communist Party Of India (MARXIST),1113892,848205,76.2,64427,7.6,2009
+Kollam,18,GEN,Kerala,N.Peethambarakurup,Indian National Congress,1108686,754928,68.1,17531,2.3,2009
+Kottayam,14,GEN,Kerala,Jose K.Mani (Karingozheckal),Kerala Congress(M),1095242,809844,73.9,71570,8.8,2009
+Kozhikode,5,GEN,Kerala,M.K. Raghavan,Indian National Congress,1053817,799996,75.9,838,0.1,2009
+Malappuram,6,GEN,Kerala,E. Ahamed,Muslim League Kerala State Committee,1019713,784713,77.0,115597,14.7,2009
+Mavelikkara,16,SC,Kerala,Kodikkunnil Suresh,Indian National Congress,1142993,806273,70.5,48048,6.0,2009
+Palakkad,8,GEN,Kerala,M.B. Rajesh,Communist Party Of India (MARXIST),1074818,790872,73.6,1820,0.2,2009
+Pathanamthitta,17,GEN,Kerala,Anto Antony Punnathaniyil,Indian National Congress,1213370,798232,65.8,111206,13.9,2009
+Ponnani,7,GEN,Kerala,E.T. Muhammed Basheer,Muslim League Kerala State Committee,997075,770205,77.3,82684,10.7,2009
+Thiruvananthapuram,20,GEN,Kerala,Shashi Tharoor,Indian National Congress,1122047,740023,66.0,99998,13.5,2009
+Thrissur,10,GEN,Kerala,P C Chacko,Indian National Congress,1174161,817245,69.6,25151,3.1,2009
+Vadakara,3,GEN,Kerala,Mullappally Ramachandran,Indian National Congress,1071171,866349,80.9,56186,6.5,2009
+Wayanad,4,GEN,Kerala,M.I. Shanavas,Indian National Congress,1102097,825047,74.9,153439,18.6,2009
+Alappuzha,15,GEN,Kerala,K C Venugopal,Indian National Congress,1271324,997464,78.5,19407,1.9,2014
+Alathur,9,SC,Kerala,P.K.Biju,Communist Party Of India (MARXIST),1216351,927228,76.2,37312,4.0,2014
+Attingal,19,GEN,Kerala,Dr.A .Sampath,Communist Party Of India (MARXIST),1251398,859350,68.7,69378,8.1,2014
+Chalakudy,11,GEN,Kerala,Innocent,Independent,1150491,884033,76.8,13884,1.6,2014
+Ernakulam,12,GEN,Kerala,Prof. K.V. Thomas,Indian National Congress,1156467,850834,73.6,87047,10.2,2014
+Idukki,13,GEN,Kerala,Adv.Joice George,Independent,1158735,819766,70.8,50542,6.2,2014
+Kannur,2,GEN,Kerala,P K Sreemathi Teacher,Communist Party Of India (MARXIST),1170266,947117,80.9,6566,0.7,2014
+Kasaragod,1,GEN,Kerala,P Karunakaran,Communist Party Of India (MARXIST),1243730,974215,78.3,6921,0.7,2014
+Kollam,18,GEN,Kerala,N.K.Premachandran,Revolutionary Socialist Party,1219415,879056,72.1,37649,4.3,2014
+Kottayam,14,GEN,Kerala,Jose K. Mani,Kerala Congress(M),1161463,831636,71.6,120599,14.5,2014
+Kozhikode,5,GEN,Kerala,M .K Raghavan,Indian National Congress,1182484,943009,79.8,16883,1.8,2014
+Malappuram,6,GEN,Kerala,E. Ahamed,Indian Union Muslim League,1198444,853467,71.2,194739,22.8,2014
+Mavelikara,16,SC,Kerala,Kodikunnil Suresh,Indian National Congress,1252668,889060,71.0,32737,3.7,2014
+Palakkad,8,GEN,Kerala,M B Rajesh,Communist Party Of India (MARXIST),1208758,910322,75.3,105300,11.6,2014
+Pathanamthitta,17,GEN,Kerala,Anto Antony,Indian National Congress,1323906,869452,65.7,56191,6.5,2014
+Ponnani,7,GEN,Kerala,E. T. Mohammed Basheer,Indian Union Muslim League,1180789,871592,73.8,25410,2.9,2014
+Thiruvananthapuram,20,GEN,Kerala,Dr. Shashi Tharoor,Indian National Congress,1272748,873439,68.6,15470,1.8,2014
+Thrissur,10,GEN,Kerala,C. N. Jayadevan,Communist Party Of India,1275288,920505,72.2,38227,4.2,2014
+Vadakara,3,GEN,Kerala,Mullappally Ramachandran,Indian National Congress,1182504,959342,81.1,3306,0.3,2014
+Wayanad,4,GEN,Kerala,M I Shanavas,Indian National Congress,1249420,915006,73.2,20870,2.3,2014
+Alappuzha,15,GEN,Kerala,Adv. A M Ariff,Communist Party Of India (Marxist),1298061,1088728,84.3,10474,1.0,2019
+Alathur,9,SC,Kerala,Ramya Haridas,Indian National Congress,1219063,1018743,84.2,158968,15.6,2019
+Attingal,19,GEN,Kerala,Adv. Adoor Prakash,Indian National Congress,1313675,1004888,76.9,38247,3.8,2019
+Chalakudy,11,GEN,Kerala,Benny Behanan,Indian National Congress,1163476,990224,85.8,132274,13.4,2019
+Ernakulam,12,GEN,Kerala,Hibi Eden,Indian National Congress,1190575,967203,81.7,169153,17.5,2019
+Idukki,13,GEN,Kerala,Adv. Dean Kuriakose,Indian National Congress,1160824,919297,79.7,171053,18.6,2019
+Kannur,2,GEN,Kerala,K. Sudhakaran,Indian National Congress,1201236,1053842,88.1,94559,9.0,2019
+Kasaragod,1,GEN,Kerala,Rajmohan Unnithan,Indian National Congress,1305827,1100051,84.6,40438,3.7,2019
+Kollam,18,GEN,Kerala,N.K.Premachandran,Revolutionary Socialist Party,1242521,968123,78.4,148856,15.4,2019
+Kottayam,14,GEN,Kerala,Thomas Chazhikadan,Kerala Congress(M),1168104,910339,78.6,106259,11.7,2019
+Kozhikode,5,GEN,Kerala,M.K.Raghavan,Indian National Congress,1245068,1076193,86.7,85225,7.9,2019
+Malappuram,6,GEN,Kerala,P.K. Kunhalikutty,Indian Union Muslim League,1306617,1034618,79.5,260153,25.1,2019
+Mavelikkara,16,SC,Kerala,Kodikunnil Suresh,Indian National Congress,1264914,971035,77.2,61138,6.3,2019
+Palakkad,8,GEN,Kerala,V K Sreekandan,Indian National Congress,1274734,1028249,81.2,11637,1.1,2019
+Pathanamthitta,17,GEN,Kerala,Anto Antony,Indian National Congress,1332683,1026553,77.3,44243,4.3,2019
+Ponnani,7,GEN,Kerala,E. T. Mohammed Basheer,Indian Union Muslim League,1265341,1017265,80.9,193273,19.0,2019
+Thiruvananthap,20,GEN,Kerala,Dr. Shashi Tharoor,Indian National Congress,1330409,1010180,76.3,99989,9.9,2019
+Thrissur,10,GEN,Kerala,T. N. Prathapan,Indian National Congress,1268671,1041869,82.5,93633,9.0,2019
+Vadakara,3,GEN,Kerala,K. Muraleedharan,Indian National Congress,1207556,1065619,88.5,84663,7.9,2019
+Wayanad,4,GEN,Kerala,Rahul Gandhi,Indian National Congress,1306141,1092197,83.8,431770,39.5,2019
